@@ -1,0 +1,38 @@
+---
+title: example
+layout: 'base.njk'
+---
+
+      
+<section class="hero">
+  <div class="container flow">
+      <div class="hero__content flow">
+        <h1 class="section-title">Safeguarding Ukraine</h1>
+        <p>TRMG delivers generators, transformers, power banks, Covid-19 test kits, blankets, and feminine hygiene products to a brave team of Ukrainian medical volunteers who welcome and treat refugees from the war zone as they arrive at Lviv train station in western Ukraine.</p>
+        <p>Follow us on Instagram for updates on our journeys.</p>
+        <p>Please support us at Gofund.me. Your additional support will allow us to do even more.</p>
+        <div class="flex-group">
+          <a href="#featured-articles" class="btn btn--primary">Featured reports</a>
+          <a href="./reports" class="btn btn--neutral">Most recent reports</a>
+        </div>
+      </div>
+      <div>
+        <img src="//unsplash.it/510" alt="" class="hero__image">
+      </div>
+  </div>
+</section>
+
+<section id="featured-articles" class="featured-articles">
+  <div class="container flow">
+    <h2 class="section-title text-center ">Featured articles</h2>
+    <p class="text-center">Here are our most important reports.</p>
+    <ul role="list" class="articles__list flow">
+      {%- for post in collections.featured | reverse -%}
+        {% include 'article_snippet.njk'%}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section> 
+ 
+   
+
