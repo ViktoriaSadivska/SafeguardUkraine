@@ -79,9 +79,10 @@
     line-height: 1.5;
   }
   
-  /* A elements that don't have a class get default styles */
+  /* A elements that don't have a class */
   a:not([class]) {
-    text-decoration-skip-ink: auto;
+    text-decoration: none;
+    color: var(--clr-primary-500);
   }
   
   /* Make images easier to work with */
