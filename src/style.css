@@ -394,3 +394,8 @@
     color: var(--clr-neutral-100);
     background-color: var(--clr-neutral-900);
   }
+
+  /*instagram posts*/
+  .eleventy-plugin-embed-instagram {
+    width: 100%;
+  } 
