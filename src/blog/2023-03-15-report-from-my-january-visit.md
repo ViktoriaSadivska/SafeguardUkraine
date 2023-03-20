@@ -11,11 +11,11 @@ imageAlt: Featured image
 ---
 Today, volunteers of the “Medical-Psychological Aid” visited three different shelters in the Lviv region. Valentyn Bordun, together with Mark Johnson, first visited the Univska Lavra, where 40 people of different age and categories currently live. The light from the generators will illuminate the places where IDPs live and work, making candles.
 
-<!--StartFragment-->
+
 
 https://www.instagram.com/reel/CoDcL10K2tu/?utm_source=ig_web_copy_link
 
-<!--EndFragment-->
+
 
 ![](/assets/blog/photo_2023-01-28_18-01-21.jpg)
 
