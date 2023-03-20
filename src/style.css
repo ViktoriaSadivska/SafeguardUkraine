@@ -397,5 +397,6 @@
 
   /*instagram posts*/
   .eleventy-plugin-embed-instagram {
-    width: 100%;
+  
+    align-self: center;
   } 
