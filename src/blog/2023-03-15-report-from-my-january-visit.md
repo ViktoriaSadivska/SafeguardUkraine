@@ -13,10 +13,6 @@ Today, volunteers of the “Medical-Psychological Aid” visited three different
 
 https://www.instagram.com/p/CoAuwYhqe78/?igshid=YmMyMTA2M2Y=
 
-https://www.instagram.com/reel/CoE2nIYK71f/?igshid=YmMyMTA2M2Y=
-
-
-
 ![](/assets/blog/photo_2023-01-28_18-01-21.jpg)
 
 ![](/assets/blog/photo_2023-01-28_15-34-10.jpg)
