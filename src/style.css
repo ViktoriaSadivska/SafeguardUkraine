@@ -397,6 +397,6 @@
 
   /*instagram posts*/
   .eleventy-plugin-embed-instagram {
-    margin-left:auto;
-    margin-right:auto;
+    margin-left:auto !important;
+    margin-right:auto  !important;
   } 
