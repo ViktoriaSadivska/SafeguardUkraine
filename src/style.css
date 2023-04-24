@@ -410,12 +410,24 @@
     text-decoration: none;
     border-radius: 50%;
     background: var(--clr-primary-200);
-    background-size: cover;
+    background-size: 100%;
     background-position: center;
   }
 
   .icon:hover {
     opacity: 0.7;
+  }
+
+  .icon-img {
+    width: 30px; /* set the size of the nested element */
+    height: 30px;
+    margin: 10px; /* add some margin to the nested element */
+  }
+  
+  .icon-img img {
+    width: 100%; /* set the size of the image to fill the nested element */
+    height: 100%;
+    object-fit: cover; /* adjust the image to fit the nested element */
   }
 
  
