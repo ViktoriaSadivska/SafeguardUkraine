@@ -404,13 +404,16 @@
 
   /*icons*/
   .icon {
-    padding: 20px;
-    font-size: 30px;
     width: 30px;
+    height: 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
     background: var(--clr-primary-200);
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.6);
+    transition: filter 0.2s ease-in-out;
   }
 
   .icon:hover {
